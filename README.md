@@ -1,3 +1,3 @@
 # Wxve
 
-Developer based in 🇪🇸.
+Developer based in Spain.
