@@ -1,3 +1,3 @@
 # 👋, I'm wxve.
 
-💻 Web Developer 
+16-year old Frontend Web Developer.
